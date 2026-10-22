@@ -5,6 +5,8 @@
 **点击release发行作品下载发行版**
 应该会得到一个apk文件，下载后再在浏览器打开就会下载了
 <img width="356" height="136" alt="image" src="https://github.com/user-attachments/assets/80511d74-d8f8-4e3a-a68a-aaeef9c94287" />
+<img width="1256" height="240" alt="image" src="https://github.com/user-attachments/assets/3fa0e7ff-27b4-4779-a145-ec305418cf1e" />
+
 
 
 - 106 段透明桌宠动画已进行清晰化处理
